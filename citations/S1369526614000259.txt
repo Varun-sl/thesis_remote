@@ -1,0 +1,10 @@
+Christine Granier, Denis Vile,
+Phenotyping and beyond: modelling the relationships between traits,
+Current Opinion in Plant Biology,
+Volume 18,
+2014,
+Pages 96-102,
+ISSN 1369-5266,
+https://doi.org/10.1016/j.pbi.2014.02.009.
+(https://www.sciencedirect.com/science/article/pii/S1369526614000259)
+Abstract: Plant phenotyping technology has become more advanced with the capacity to measure many morphological and physiological traits on a given individual. With increasing automation, getting access to various traits on a high number of genotypes over time raises the need to develop systems for data storage and analyses, all congregating into plant phenotyping pipelines. In this review, we highlight several studies that illustrate the latest advances in plant multi-trait phenotyping and discuss future needs to ensure the best use of all these quantitative data. We assert that the next challenge is to disentangle how plant traits are embedded in networks of dependencies (and independencies) by modelling the relationships between them and how these are affected by genetics and environment.
