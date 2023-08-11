@@ -1,0 +1,1 @@
+Wang, Li’ai & Zhou, Xudong & Zhu, Xinkai & Dong, Zhaodi & Guo, Wenshan. (2016). Estimation of biomass in wheat using random forest regression algorithm and remote sensing data. The Crop Journal. 4. 10.1016/j.cj.2016.01.008. 

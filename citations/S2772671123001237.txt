@@ -1,0 +1,11 @@
+Dipak Pralhad Mahurkar, Hemant Patidar,
+Revealing leaf species through specific contour and region-based features extraction,
+e-Prime - Advances in Electrical Engineering, Electronics and Energy,
+Volume 5,
+2023,
+100228,
+ISSN 2772-6711,
+https://doi.org/10.1016/j.prime.2023.100228.
+(https://www.sciencedirect.com/science/article/pii/S2772671123001237)
+Abstract: Leaf identification plays a vital role in plant classification and protection, and advancements in artificial intelligence and machine vision have revolutionized leaf identification technology. This study focuses on evaluating different feature extraction methods, specifically region-based and contour-based approaches, to identify plant leaf species through image analysis. The study initially extracts leaf characteristics from images, which are then divided into two groups based on area features or contour features. The dataset is split into 80% for training and 20% for testing, and a K-Nearest Neighbour (K-NN) classifier is employed for species identification. Three approaches are compared for leaf classification. The first approach utilizes region-based shape descriptors (RBSD) and achieves an accuracy rate of 75%. The second approach employs contour-based shape descriptors (CBSD) and achieves a higher accuracy of 76%. The third approach combines both area and contour features, resulting in an average accuracy of 75.5%. Through the comparison of all three methods, it is evident that the CBSD approach outperforms the others, making it the most effective feature extraction method for plant species identification. The developed automatic leaf species identification system was implemented using the PyCharm environment. The proposed approach and feature extraction techniques surpass previous state-of-the-art 69.61%, 72%, 74.4% results, showcasing the potential of the proposed separation of leaf characteristics. Also the advancement of automated leaf species identification and have significant implications for plant taxonomy and protection efforts.
+Keywords: Species identification; Shrouded leaf; Species leaf contour; Contour based; feature extraction; K-nearest neighbour classifier; Region based feature extraction
