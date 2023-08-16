@@ -1,0 +1,17 @@
+AUTHOR=Singh Biswabiplab, Kumar Sudhir, Elangovan Allimuthu, Vasht Devendra, Arya Sunny, Duc Nguyen Trung, Swami Pooja, Pawar Godawari Shivaji, Raju Dhandapani, Krishna Hari, Sathee Lekshmy, Dalal Monika, Sahoo Rabi Narayan, Chinnusamy Viswanathan
+	 
+TITLE=Phenomics based prediction of plant biomass and leaf area in wheat using machine learning approaches  
+	
+JOURNAL=Frontiers in Plant Science     
+	
+VOLUME=14      
+	
+YEAR=2023   
+		
+URL=https://www.frontiersin.org/articles/10.3389/fpls.2023.1214801     
+	  
+DOI=10.3389/fpls.2023.1214801    
+	
+ISSN=1664-462X   
+
+ABSTRACT=<sec>IntroductionPhenomics has emerged as important tool to bridge the genotype-phenotype gap. To dissect complex traits such as highly dynamic plant growth, and quantification of its component traits over a different growth phase of plant will immensely help dissect genetic basis of biomass production. Based on RGB images, models have been developed to predict biomass recently. However, it is very challenging to find a model performing stable across experiments. In this study, we recorded RGB and NIR images of wheat germplasm and Recombinant Inbred Lines (RILs) of Raj3765xHD2329, and examined the use of multimodal images from RGB, NIR sensors and machine learning models to predict biomass and leaf area non-invasively.</sec><sec>ResultsThe image-based traits (i-Traits) containing geometric features, RGB based indices, RGB colour classes and NIR features were categorized into architectural traits and physiological traits. Total 77 i-Traits were selected for prediction of biomass and leaf area consisting of 35 architectural and 42 physiological traits. We have shown that different biomass related traits such as fresh weight, dry weight and shoot area can be predicted accurately from RGB and NIR images using 16 machine learning models. We applied the models on two consecutive years of experiments and found that measurement accuracies were similar suggesting the generalized nature of models. Results showed that all biomass-related traits could be estimated with about 90% accuracy but the performance of model BLASSO was relatively stable and high in all the traits and experiments. The R<sup>2</sup> of BLASSO for fresh weight prediction was 0.96 (both year experiments), for dry weight prediction was 0.90 (Experiment 1) and 0.93 (Experiment 2) and for shoot area prediction 0.96 (Experiment 1) and 0.93 (Experiment 2). Also, the RMSRE of BLASSO for fresh weight prediction was 0.53 (Experiment 1) and 0.24 (Experiment 2), for dry weight prediction was 0.85 (Experiment 1) and 0.25 (Experiment 2) and for shoot area prediction 0.59 (Experiment 1) and 0.53 (Experiment 2).</sec><sec>DiscussionBased on the quantification power analysis of i-Traits, the determinants of biomass accumulation were found which contains both architectural and physiological traits. The best predictor i-Trait for fresh weight and dry weight prediction was Area_SV and for shoot area prediction was projected shoot area. These results will be helpful for identification and genetic basis dissection of major determinants of biomass accumulation and also non-invasive high throughput estimation of plant growth during different phenological stages can identify hitherto uncovered genes for biomass production and its deployment in crop improvement for breaking the yield plateau.</sec>
